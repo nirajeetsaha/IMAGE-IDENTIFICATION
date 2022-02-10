@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+h1
+{
+    color: red;
+}
+
+a
+{
+    border-radius: 20px;
+    background-color: aquamarine;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: larger;
+    color: red;
+}
